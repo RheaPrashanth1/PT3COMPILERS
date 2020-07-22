@@ -5,3 +5,4 @@ parser: mini_l.lex mini_l.yy
         
 clean:
         rm -f lex.yy.c parser.tab.* parser.output *.o parser location.hh position.hh stack.hh
+
